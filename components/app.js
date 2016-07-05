@@ -15,6 +15,8 @@ class App extends Component {
                 <Counter />
                 <Counter />
                 <Counter />
+                <Counter />
+                <Counter />
             </div>
         )
     }
